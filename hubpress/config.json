@@ -1,10 +1,28 @@
 {
   "meta": {
-    "username": "put your username here",
-    "repositoryName": "put your repository name here",
-    "branch": "master"
+    "username": "gjagush",
+    "repositoryName": "gjagush.github.io",
+    "branch": "master",
+    "cname": "texanmason.com"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "http://texanmason.com",
+    "hubpress": "http://texanmason.com",
+    "theme": "//texanmason.com/themes/casper",
+    "images": "http://texanmason.com/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ],
+    "_Ctor": {}
   }
 }
