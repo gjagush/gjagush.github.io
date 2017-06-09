@@ -2,7 +2,7 @@
 // See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
 // :hp-image: /covers/cover.png
 :published_at: 2017-02-17
-// :hp-tags: Freemason, Free, Mason, Masonry, Craft, Blue, Lodge, Podcast, Fort, Worth, 148
+:hp-tags: Freemason, Free, Mason, Masonry, Craft, Blue, Lodge, Podcast, Fort, Worth, 148
 :hp-alt-title: First Podcast Episode
 
 Well then, here we go. Jumping into the deep end with my lodge brother, Rhit Moore. We have decided to revive the Fort Worth 148 Podcast. Let's see how this goes! Our goal is to do good work, spread news for the Craft, and get nerdy as hell real quick. Check out our first episode, link:http://www.stitcher.com/podcast/fort-worth-148"[_Tech and the Lodge_].
