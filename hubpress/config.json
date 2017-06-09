@@ -6,12 +6,12 @@
     "cname": "texanmason.com"
   },
   "theme": {
-    "name": "ghostium"
+    "name": "ichi"
   },
   "urls": {
     "site": "http://texanmason.com",
     "hubpress": "http://texanmason.com",
-    "theme": "//texanmason.com/themes/casper",
+    "theme": "//texanmason.com/themes/ghostium",
     "images": "http://texanmason.com/images"
   },
   "initialisationConfigComponent": {
