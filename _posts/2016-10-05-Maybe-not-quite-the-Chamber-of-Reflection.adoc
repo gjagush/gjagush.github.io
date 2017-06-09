@@ -2,7 +2,7 @@
 // See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
 // :hp-image: /covers/cover.png
 :published_at: 2016-10-05
-:hp-tags: HubPress, Blog, Open_Source, Freemason, Free, Mason, Masonry, Craft, Blue, Lodge, Jason Mitchell, Prep, Room, Chamber, Reflection
+:hp-tags: Freemason, Free, Mason, Masonry, Craft, Blue, Lodge, Jason Mitchell, Prep, Room, Chamber, Reflection
 :hp-alt-title: Maybe not quite the Chamber of Reflection
 
 _This was originally posted to a private lodge Facebook group for Fort Worth Lodge #148._
