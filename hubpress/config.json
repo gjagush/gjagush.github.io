@@ -6,12 +6,12 @@
     "cname": "texanmason.com"
   },
   "theme": {
-    "name": "ichi"
+    "name": "roon"
   },
   "urls": {
     "site": "http://texanmason.com",
     "hubpress": "http://texanmason.com",
-    "theme": "//texanmason.com/themes/ghostium",
+    "theme": "//texanmason.com/themes/ichi",
     "images": "http://texanmason.com/images"
   },
   "initialisationConfigComponent": {
@@ -28,7 +28,7 @@
   "site": {
     "title": "Texan Mason",
     "description": "A Millennial in the Quarries, Yelling into the Void",
-    "logo": "cowboyhat.jpg",
+    "logo": "https://raw.githubusercontent.com/gjagush/gjagush.github.io/master/images/cowboyhat.jpg",
     "cover": "",
     "delay": "",
     "postsPerPage": "",
