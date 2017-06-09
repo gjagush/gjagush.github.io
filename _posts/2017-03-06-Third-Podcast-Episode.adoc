@@ -1,0 +1,14 @@
+= Third Podcast Episode
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+:published_at: 2017-03-06
+:hp-tags: Freemason, Free, Mason, Masonry, Craft, Blue, Lodge, Podcast, Fort, Worth, 148
+:hp-alt-title: Third Podcast Episode
+
+Third podcast episode is up! Super late on the draw on actually updating my site. It's been kind of hectic - recent change of employment.
+____
+Brothers Rhit Moore, Grant Gates, and Gabriel Jagush get to talking about what it means to provide value to a lodge. Are you getting your money's worth? Can you improve your lodge? What are you doing right? What about your wife? We also get sidetracked on the dreaded subject of dues for a bit.
+
+We continue with more information on the Italian Affair, discuss a recent arson attack on our Brothers in Canada, a masonic children's home saved from closure, and the renovation of the Colored Masonic Building in Birmingham, AL. At the end of the episode, we talk about what's going on in the 64th district of Texas.
+____
+link:http://fortworth148.libsyn.com/episode-003-building-value[_Building Value - Let's make it worth your time_].
