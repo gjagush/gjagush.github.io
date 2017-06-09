@@ -6,12 +6,12 @@
     "cname": "texanmason.com"
   },
   "theme": {
-    "name": "saga"
+    "name": "the-shell"
   },
   "urls": {
     "site": "http://texanmason.com",
     "hubpress": "http://texanmason.com",
-    "theme": "//texanmason.com/themes/roon",
+    "theme": "//texanmason.com/themes/saga",
     "images": "http://texanmason.com/images"
   },
   "initialisationConfigComponent": {
