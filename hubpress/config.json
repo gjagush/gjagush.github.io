@@ -24,5 +24,27 @@
       null
     ],
     "_Ctor": {}
+  },
+  "site": {
+    "title": "Texan Mason",
+    "description": "A Millennial in the Quarries, Yelling into the Void",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "",
+    "googleAnalytics": "",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "texanmason@gmail.com",
+    "github": "",
+    "twitter": "texanmason",
+    "facebook": "texanmason",
+    "googleplus": "",
+    "instagram": "texanmason",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": ""
   }
 }
