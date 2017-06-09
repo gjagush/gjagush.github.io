@@ -1,0 +1,18 @@
+= Evolution of Scottish Rite Masonry
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+:published_at: 2016-09-19
+:hp-tags: Freemason, Free, Mason, Masonry, Craft, Blue, Lodge, Scottish Rite, Charts, Evolution
+:hp-alt-title: Complicated flowcharts: Scottish Rite edition
+
+== Complicated flowcharts: Scottish Rite edition
+
+Original flowchart:
+
+image::20160919-img1.png[Original flowchart]
+
+Cleaned-up version that I made:
+
+[#img-clean]
+[link=https://raw.githubusercontent.com/gjagush/gjagush.github.io/master/images/20160919-img2.jpg]
+image::20160919-img2.jpg[Cleaned-Up Version]
