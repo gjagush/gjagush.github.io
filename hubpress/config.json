@@ -6,12 +6,12 @@
     "cname": "texanmason.com"
   },
   "theme": {
-    "name": "uno-zen"
+    "name": "roon"
   },
   "urls": {
     "site": "http://texanmason.com",
     "hubpress": "http://texanmason.com",
-    "theme": "//texanmason.com/themes/the-shell",
+    "theme": "//texanmason.com/themes/uno-zen",
     "images": "http://texanmason.com/images"
   },
   "initialisationConfigComponent": {
