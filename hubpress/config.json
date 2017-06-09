@@ -6,7 +6,7 @@
     "cname": "texanmason.com"
   },
   "theme": {
-    "name": "casper"
+    "name": "ghostium"
   },
   "urls": {
     "site": "http://texanmason.com",
@@ -28,7 +28,7 @@
   "site": {
     "title": "Texan Mason",
     "description": "A Millennial in the Quarries, Yelling into the Void",
-    "logo": "",
+    "logo": "cowboyhat.jpg",
     "cover": "",
     "delay": "",
     "postsPerPage": "",
