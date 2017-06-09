@@ -2,7 +2,7 @@
 // See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
 // :hp-image: /covers/cover.png
 :published_at: 2016-10-26
-:hp-tags: Freemason, Free, Mason, Masonry, Craft, Blue, Lodge,
+:hp-tags: Freemason, Free, Mason, Masonry, Craft, Blue, Lodge, Hebrew, Latin, Translate, Translation
 :hp-alt-title: Gabe engages in shoddy academics.
 
 _This was originally posted to a private lodge Facebook group for Fort Worth Lodge #148._
