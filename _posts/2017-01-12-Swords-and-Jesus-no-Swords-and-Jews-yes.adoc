@@ -1,4 +1,4 @@
-= The Order of Judas Maccabeus
+= "The Order of Judas Maccabeus" by R∴W∴ Raymond Beardsly
 // See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
 // :hp-image: /covers/cover.png
 :published_at: 2017-01-12
