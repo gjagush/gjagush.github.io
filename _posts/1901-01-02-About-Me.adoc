@@ -1,0 +1,13 @@
+= About Me
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+:published_at: 1901-01-02
+:hp-alt-title: About Me
+
+* Texas Aggie - Petroleum Engineering (B.S.), 2013
+* Current resident of Fort Worth, Texas
+* Big on dogs
+* Heavily tattooed
+* Christian
+* Hopeless geek
+* http://texanmason.com/1901/01/01/Why-I-Have-No-Free-Time-Anymore.html[*Freemason*]
